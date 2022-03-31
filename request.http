@@ -1,0 +1,7 @@
+GET https//localhost:3000/quote.json
+
+### Quote
+
+POST http://localhost:3000/quotes.json
+Content-Type: application/json
+
